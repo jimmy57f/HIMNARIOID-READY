@@ -1,0 +1,30 @@
+{
+
+  "project_info": {
+    "project_number": "378820595756",
+    "project_id": "appid-78919",
+    "storage_bucket": "appid-78919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378820595756:android:1876b8be1fc7edd21c4189",
+        "android_client_info": {
+          "package_name": "com.jimmy.app_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVfhCM877lDGdaXVHsg4DP0xKFbET21I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
